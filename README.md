@@ -24,7 +24,7 @@ Here are the technologies I work with, powered by clean, modern icons:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,html,css,git,github,linux,bash,cloudinary" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,html,css,git,github,linux,bash" />
   </a>
 </p>
 
@@ -51,6 +51,22 @@ Here are four major full-stack applications I've built from the ground up to dem
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChoforJr&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="http://www.linkedin.com/in/choforforsakang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+   <a href="https://chofor-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Link-D14836?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:choforjrforsakang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
