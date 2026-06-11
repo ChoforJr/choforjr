@@ -56,13 +56,13 @@ Here are four major full-stack applications I've built from the ground up to dem
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://shields.io)](http://www.linkedin.com/in/choforforsakang)
+
 <p align="left">
   <a href="http://www.linkedin.com/in/choforforsakang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
    <a href="https://chofor-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Link-D14836?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:choforjrforsakang@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
