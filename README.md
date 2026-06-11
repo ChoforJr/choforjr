@@ -24,7 +24,7 @@ Here are the technologies I work with, powered by clean, modern icons:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,html,css,git,github,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,html,css,git,github,linux,bash,cloudinary" />
   </a>
 </p>
 
