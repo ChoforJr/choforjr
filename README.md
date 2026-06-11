@@ -36,8 +36,8 @@ Here are four major full-stack applications I've built from the ground up to dem
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Odin-Book** | A feature-rich social media clone focusing on complex database relationships and user interactions. | React, Node.js, Express, MongoDB |
-| **Messaging App** | A real-time chat application designed for seamless instant messaging. | JavaScript, Node.js, WebSockets/Socket.io |
+| **Odin-Book** | A feature-rich social media clone focusing on complex database relationships and user interactions. | React, Node.js, Express, Prisma ORM, Cloundinary |
+| **Messaging App** | A chat application designed for seamless private user and group communication. | JavaScript, Node.js, Prisma ORM, Cloundinary |
 | **Blog Platform** | A content management system with a clean separation of a user-facing front end and an admin dashboard. | React, REST API, Node.js |
 | **Where's Waldo** | A photo-tagging game utilizing precise coordinate checking on the backend. | JavaScript, Backend API, CSS |
 
